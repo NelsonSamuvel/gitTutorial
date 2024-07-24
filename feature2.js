@@ -1,1 +1,2 @@
-console.log("conflict detected");
+console.log("conflict placed");
+
